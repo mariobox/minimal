@@ -1,0 +1,22 @@
+body {
+	color: #222;
+    max-width: 720px;
+    margin: auto;
+    padding: 1.5em 0.5em 0.0em 0.5em;
+    font-family: Georgia;
+    background-color: #f4f6f7
+}
+
+a, a:active, a:hover, a:visited {
+  color: #222;
+}
+
+.h1logo {
+	text-decoration: none;
+}
+
+code {
+  background:#272727;
+  color:white;
+  border-radius:3px;
+}
